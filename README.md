@@ -1,2 +1,4 @@
 # data-engineer-project-
-project which i had worked on , during my internship 
+End-to-End Data Pipeline 
+Developed and implemented a full-fledged data pipeline to collect, process, and analyze large 
+datasets
